@@ -1,0 +1,20 @@
+﻿@import url('./colorfulpath-bg-color.css');
+@import url('./colorfulpath-text-color.css');
+
+body {
+    font-family: Consolas,'Yu Gothic UI',sans-serif;
+    font-size: 14px;
+}
+
+a {
+   text-decoration: none;
+}
+
+a:hover {
+    color: #DDD;
+}
+
+
+div {
+    margin-top: 24px;
+}
