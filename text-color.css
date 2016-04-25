@@ -1,0 +1,26 @@
+﻿
+/* textcolor : Black */
+.text--black {
+    color: #000;
+}
+
+.text--black > a {
+    color: #000;
+}
+
+.text--gray {
+    color: #888;
+}
+
+.text--gray > a {
+    color: #888;
+}
+
+/* textcolor : white */
+.text--white {
+    color: #FFF;
+}
+
+.text--white > a {
+    color: #FFF;
+}
