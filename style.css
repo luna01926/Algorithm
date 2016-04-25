@@ -1,5 +1,5 @@
-﻿@import url('./colorfulpath-bg-color.css');
-@import url('./colorfulpath-text-color.css');
+﻿@import url('./bg-color.css');
+@import url('./text-color.css');
 
 body {
     font-family: Consolas,'Yu Gothic UI',sans-serif;
